@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(236, 236, 236);
+     
+}
+h1{
+    text-align: center;
+}
+#mainborder{
+    border: dashed 2px gray;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+
+}
+#mainrow{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn  .rounded-pill .p-1 .mb-1 .bg-danger .text-white .float-right{
+    background-color: rgb(41, 41, 41);
+}
